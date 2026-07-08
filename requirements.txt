@@ -1,0 +1,13 @@
+ipykernel
+pandas
+matplotlib
+scikit-learn
+Streamlit
+numpy
+seaborn
+tensorflow
+keras
+keras-tuner
+xgboost
+joblib
+streamlit
