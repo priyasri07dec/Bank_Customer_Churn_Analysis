@@ -181,16 +181,6 @@ Bank-Customer-Churn-Prediction/
 └── images/
 ```
 
-## 📌 Future Improvements
-
-- Hyperparameter optimization using Optuna
-- Cross-validation
-- SHAP Explainability
-- Feature Importance Dashboard
-- Docker Deployment
-- Cloud Deployment
-
----
 
 ## 📜 Key Learnings
 
